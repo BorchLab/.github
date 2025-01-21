@@ -13,3 +13,14 @@ as well as approaches inspired by artificial immune systems for machine learning
 
 Our research not only contributes to fundamental immunology but also addresses translational applications, such as biomarker discovery and personalized immunotherapy. 
 By leveraging an interdisciplinary approach, the lab aims to push the boundaries of how we understand, model, and manipulate the immune system to improve human health.
+
+### Packages
+
+|              | Github                                                  | Publication  | 
+|--------------|---------------------------------------------------------|--------------|
+| scRepertoire | [link](https://github.com/ncborcherding/scRepertoire)   | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7400693/) | 
+| escape       | [link](https://github.com/ncborcherding/escape)         | [link](https://pubmed.ncbi.nlm.nih.gov/33504936/)  | 
+| Trex         | [link](https://github.com/ncborcherding/Trex)           | [link](https://pubmed.ncbi.nlm.nih.gov/39164479/)  | 
+| Ibex         | [link](https://github.com/ncborcherding/Ibex)           | [preprint](https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract)  | 
+| immApex      | [link ](https://github.com/ncborcherding/immApex)       | in progress  | 
+| bHIVE        | [link ](https://github.com/ncborcherding/bHIVE)         | in progress  |
